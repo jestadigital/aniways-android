@@ -6,7 +6,7 @@
     <name>Aniways</name>
     <groupId>com.aniways</groupId>
     <artifactId>library</artifactId>
-    <version>1.76</version>
+    <version>1.78</version>
     <packaging>apklib</packaging>
 
     <properties>
